@@ -1,2 +1,2 @@
-.# task-git
+ task-git
 ww
